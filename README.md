@@ -1,6 +1,8 @@
-Please send an email to [Thomas Kober (t.kober@rasa.com)](mailto:t.kober@rasa.com) if you need access to any of the data used in the paper [Aspectuality across Genre: A Distributional Semantics Approach](https://aclanthology.org/2020.coling-main.401/)
+Please send an email to [Thomas Kober (t.kober@rasa.com)](mailto:t.kober@rasa.com) if you need access to the DIASPORA dataset introduced in the paper [Aspectuality across Genre: A Distributional Semantics Approach](https://aclanthology.org/2020.coling-main.401/)
 
 Due to licensing issues, we haven't figured out a better way for releasing the data yet - sorry :/.
+
+The downsampled SitEnt dataset (train and test split) can be found in the datasets folder.
 
 Please use the following citation if you use the DIASPORA or our downsampled SitEnt-ambig dataset in any of your work:
 ```
